@@ -19,3 +19,4 @@ simple-qt-thread-example requires:
 
 A full explaination of this example is available on its dedicated blog post : http://fabienpn.wordpress.com/2013/05/01/qt-thread-simple-and-stable-with-sources/
 
+# simple-qt-thread-example
